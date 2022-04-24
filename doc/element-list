@@ -1,0 +1,6 @@
+module:fr.centralesupelec.is1220.GroupT_MyVelib_Poncelet_Hatano
+fr.centralesupelec.is1220.Bike
+fr.centralesupelec.is1220.CLUI
+fr.centralesupelec.is1220.Server
+fr.centralesupelec.is1220.Station
+fr.centralesupelec.is1220.User

@@ -1,0 +1,13 @@
+>> setup was done successfully!
+>> addUser was done successfully!
+>> addUser was done successfully!
+>> offline was done successfully!
+>> planningRide was done successfully! Your departure station will be at station n°13(2.4794507963853687,1.306170347673263)
+Your arrival station will be at station n°12(2.156548531277782,3.8189867266906505)
+Your departure station will be at station n°13(2.4794507963853687,1.306170347673263)
+Your arrival station will be at station n°12(2.156548531277782,3.8189867266906505)
+>> online was done successfully!
+>> planningRide was done successfully! Your departure station will be at station n°11(0.5148633247852055,2.341121453103078)
+Your arrival station will be at station n°12(2.156548531277782,3.8189867266906505)
+Your departure station will be at station n°11(0.5148633247852055,2.341121453103078)
+Your arrival station will be at station n°12(2.156548531277782,3.8189867266906505)

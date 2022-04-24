@@ -1,0 +1,4 @@
+>> Delete was done successfully!
+velibnet1
+>> Delete was done successfully!
+velibnet2

@@ -1,0 +1,2 @@
+deleteServer -velibnetworkName velibnet1
+deleteServer -velibnetworkName velibnet2

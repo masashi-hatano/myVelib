@@ -1,0 +1,20 @@
+>> displayStation was done successfully!
+StandardStationFactory n°1, state = ONSERVICE, number of free slots = 4, number of occupied slots = 6, occupation = 97365.06005989
+>> displayStation was done successfully!
+PlusStationFactory n°2, state = ONSERVICE, number of free slots = 0, number of occupied slots = 10, occupation = 162275.10010856003
+>> displayStation was done successfully!
+PlusStationFactory n°3, state = ONSERVICE, number of free slots = 3, number of occupied slots = 7, occupation = 113592.57007889
+>> rentBike was done successfully!
+>> rentBike was done successfully!
+>> rentBike was done successfully!
+>> displayStation was done successfully!
+StandardStationFactory n°1, state = ONSERVICE, number of free slots = 5, number of occupied slots = 5, occupation = 97365.0600753
+>> displayStation was done successfully!
+PlusStationFactory n°2, state = ONSERVICE, number of free slots = 1, number of occupied slots = 9, occupation = 162275.10013458002
+>> displayStation was done successfully!
+PlusStationFactory n°3, state = ONSERVICE, number of free slots = 4, number of occupied slots = 6, occupation = 113592.57009625001
+>> returnBike was done successfully!
+>> rentBike was done successfully!
+>> returnBike was done successfully!
+>> rentBike was done successfully!
+>> returnBike was done successfully!

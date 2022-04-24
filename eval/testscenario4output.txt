@@ -1,0 +1,15 @@
+>> sortStation was done successfully!
+[2, 3, 1, 4, 5, 6, 7, 8, 9, 10]
+>> sortStation was done successfully!
+[6, 8, 2, 7, 5, 10, 3, 1, 4, 9]
+>> planningRide was done successfully! Your departure station will be at station n°5(0.03582391157057119,0.48072029190667376)
+Your arrival station will be at station n°4(2.1573708342369606,3.5288128209907734)
+Your departure station will be at station n°5(0.03582391157057119,0.48072029190667376)
+Your arrival station will be at station n°4(2.1573708342369606,3.5288128209907734)
+>> rentBike was done successfully!
+>> sortStation was done successfully!
+[6, 8, 2, 7, 5, 10, 3, 1, 4, 9]
+>> sortStation was done successfully!
+[2, 3, 1, 10, 4, 5, 6, 7, 8, 9]
+>> display was done successfully!
+Server velibnet1, dimension=4.0, users={1=[Username: user1][UserID: 1][Card type : NoCard][Credit time : 0.0][Balance : -9.1][Number of rides : 4][Total ride time : 546.0][Total amount of charge : 9.1][Total amount of credit time : 0.0], 2=[Username: user2][UserID: 2][Card type : Vlibre][Credit time : 5.0][Balance : -1.6833333333333333][Number of rides : 1][Total ride time : 161.0][Total amount of charge : 1.6833333333333333][Total amount of credit time : 5.0], 3=[Username: user3][UserID: 3][Card type : Vmax][Credit time : 0.0][Balance : -1.75][Number of rides : 1][Total ride time : 165.0][Total amount of charge : 1.75][Total amount of credit time : 0.0]}, stations={1=StandardStationFactory n°1, state = ONSERVICE, number of free slots = 4, number of occupied slots = 6, occupation = 97365.06032194998, 2=PlusStationFactory n°2, state = ONSERVICE, number of free slots = 1, number of occupied slots = 9, occupation = 162275.10050529998, 3=PlusStationFactory n°3, state = ONSERVICE, number of free slots = 4, number of occupied slots = 6, occupation = 113592.57034127999, 4=StandardStationFactory n°4, state = ONSERVICE, number of free slots = 5, number of occupied slots = 5, occupation = 81137.55027445, 5=PlusStationFactory n°5, state = ONSERVICE, number of free slots = 3, number of occupied slots = 7, occupation = 113592.57038423, 6=StandardStationFactory n°6, state = ONSERVICE, number of free slots = 0, number of occupied slots = 10, occupation = 162275.1005489, 7=StandardStationFactory n°7, state = ONSERVICE, number of free slots = 1, number of occupied slots = 9, occupation = 146047.59049401, 8=PlusStationFactory n°8, state = ONSERVICE, number of free slots = 0, number of occupied slots = 10, occupation = 162275.1005489, 9=StandardStationFactory n°9, state = ONSERVICE, number of free slots = 6, number of occupied slots = 4, occupation = 64910.040219559996, 10=PlusStationFactory n°10, state = ONSERVICE, number of free slots = 4, number of occupied slots = 6, occupation = 113592.5703826}

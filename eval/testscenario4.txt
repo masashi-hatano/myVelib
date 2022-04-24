@@ -1,0 +1,7 @@
+sortStation -velibnetworkName velibnet1 -policy used
+sortStation -velibnetworkName velibnet1 -policy occupation
+planningRide -velibnetworkName velibnet1 -userID 1 -bikeType electrical -px 0 -py 0 -dx 4 -dy 4
+rentBike -velibnetworkName velibnet1 -userID 1 -stationID 10 -bikeType electrical
+sortStation -velibnetworkName velibnet1 -policy occupation
+sortStation -velibnetworkName velibnet1 -policy used
+display -velibnetworkName velibnet1

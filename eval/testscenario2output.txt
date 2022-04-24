@@ -1,0 +1,12 @@
+>> rentBike was done successfully!
+>> rentBike was done successfully!
+>> rentBike was done successfully!
+>> returnBike was done successfully!
+>> returnBike was done successfully!
+>> returnBike was done successfully!
+>> displayUser was done successfully!
+[Username: user1][UserID: 1][Card type : NoCard][Credit time : 0.0][Balance : -2.816666666666667][Number of rides : 1][Total ride time : 169.0][Total amount of charge : 2.816666666666667][Total amount of credit time : 0.0]
+>> displayUser was done successfully!
+[Username: user2][UserID: 2][Card type : Vlibre][Credit time : 5.0][Balance : -1.6833333333333333][Number of rides : 1][Total ride time : 161.0][Total amount of charge : 1.6833333333333333][Total amount of credit time : 5.0]
+>> displayUser was done successfully!
+[Username: user3][UserID: 3][Card type : Vmax][Credit time : 0.0][Balance : -1.75][Number of rides : 1][Total ride time : 165.0][Total amount of charge : 1.75][Total amount of credit time : 0.0]

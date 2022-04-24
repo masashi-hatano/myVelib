@@ -1,0 +1,9 @@
+rentBike -velibnetworkName velibnet1 -userID 1 -stationID 1 -bikeType mechanical
+rentBike -velibnetworkName velibnet1 -userID 2 -stationID 2 -bikeType mechanical
+rentBike -velibnetworkName velibnet1 -userID 3 -stationID 3 -bikeType mechanical
+returnBike -velibnetworkName velibnet1 -userID 1 -stationID 2
+returnBike -velibnetworkName velibnet1 -userID 2 -stationID 3
+returnBike -velibnetworkName velibnet1 -userID 3 -stationID 1
+displayUser -velibnetworkName velibnet1 -userID 1
+displayUser -velibnetworkName velibnet1 -userID 2
+displayUser -velibnetworkName velibnet1 -userID 3
