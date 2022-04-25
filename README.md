@@ -8,3 +8,7 @@ kind of bicycles (mechanical and electrically assisted), the users (which may po
 istration card), the maintenance crew (responsible for collecting/replacing broken down
 bicycles), etc. Based on the systems requirements you are required to develop a 
 Java framework, hereafter called myVelib, for managing bike sharing.
+
+## Project Specifications
+You can find the pdf file of project specifications below.  
+[project_myVelib.pdf](https://github.com/masashi-hatano/myVelib/files/8551658/project_myVelib.pdf)
